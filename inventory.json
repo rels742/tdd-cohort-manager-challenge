@@ -1,0 +1,108 @@
+{
+    "inventory": [
+        {
+            "cohort": "Class 6",
+            "id": 61,
+            "fist": "Lorel",
+            "last": "Aboua",
+            "github": "rels742",
+            "email": "lorel.oboue@gmail.com"
+        },
+        {
+            "cohort": "Class 6",
+            "id": 62,
+            "fist": "Delia",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 63,
+            "fist": "Neomi",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 64,
+            "fist": "Gift",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 64,
+            "fist": "Hubert",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 65,
+            "first": "John",
+            "last":  "",
+            "github":  "",
+            "email":  ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 66,
+            "fist": "Michele",
+            "last": " ",
+            "github": " ",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 67,
+            "fist": "Mirkan",
+            "last":  "",
+            "github": " ",
+            "email": " "
+        },
+        {
+            "cohort": "Class 6",
+            "id": 68,
+            "fist": "Ning",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 69,
+            "fist": "Pae",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 610,
+            "fist": "Richard",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 611,
+            "fist": "Sam",
+            "last": "",
+            "github": "",
+            "email": ""
+        },
+        {
+            "cohort": "Class 6",
+            "id": 612,
+            "fist": "Tom",
+            "last": "",
+            "github": "",
+            "email": ""
+        }
+    ]
+}
