@@ -1,6 +1,6 @@
 class Cohort {
   constructor() {
-    /// add constructors
+    // add constructors
     this.cohorts = []
     this.students = []
   }
@@ -12,26 +12,15 @@ class Cohort {
     const lastElement = this.cohorts.length - 1
     return this.cohorts[lastElement]
   }
-
-  //   const expected = {
-  //     cohort: 'Class 6',
-  //     id: 61,
-  //     fist: 'Lorel',
-  //     last: 'Aboua',
-  //     github: 'rels742',
-  //     email: 'lorel.oboue@gmail.com'
-  //   }
-
-  addStudent(studentDetails) {
-    console.log('trying to add students', this.students)
-    if (this.cohorts.includes(studentDetails.cohort)) {
-      this.students.push(studentDetails)
-      console.log('added student', studentDetails)
-    }
-
-    const lastElement = this.students.length - 1
-    return this.students[lastElement]
-  }
 }
 
 module.exports = Cohort
+
+//   const expected = {
+//     cohort: 'Class 6',
+//     id: 61,
+//     fist: 'Lorel',
+//     last: 'Aboua',
+//     github: 'rels742',
+//     email: 'lorel.oboue@gmail.com'
+//   }
